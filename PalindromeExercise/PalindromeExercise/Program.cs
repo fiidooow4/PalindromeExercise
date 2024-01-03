@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PalindromeExercise
+namespace UnitTestingExercise
 {
     class Program
     {
